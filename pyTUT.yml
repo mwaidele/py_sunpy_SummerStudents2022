@@ -1,0 +1,14 @@
+name: pyTUT
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - python=3.9
+  - jupyter
+  - spyder
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - astropy
+  - sunpy
